@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ancestryloginaccount.readthedocs.io/en/latest/
